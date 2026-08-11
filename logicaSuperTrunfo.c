@@ -7,6 +7,9 @@
 
 int main() {
     // Definição das variáveis para armazenar as propriedades das cidades
+    printf("olá mundo, no codespace \n");
+    printf("Exemplo de edição de código!\n");
+
     // Você pode utilizar o código do primeiro desafio
 
     
